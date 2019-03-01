@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="counter_messages">locations chosen: %d </string>
+    <string name="hint">No picked locations yet</string>
+    <string name="add">Add</string>
+</resources>
