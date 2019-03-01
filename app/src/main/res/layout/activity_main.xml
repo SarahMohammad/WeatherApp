@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:text="@string/hint"
         android:visibility="visible"
+        android:background="@android:color/white"
         android:id="@+id/no_picked_location_tv"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
